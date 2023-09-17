@@ -8,4 +8,8 @@ class Home extends BaseController
     {
         return view('welcome_message');
     }
+    public function mjlaudencia()
+    {
+        echo 'kaya toh';
+    }
 }

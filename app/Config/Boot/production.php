@@ -14,7 +14,7 @@ error_reporting(E_ALL & ~E_NOTICE & ~E_DEPRECATED & ~E_STRICT & ~E_USER_NOTICE &
  |--------------------------------------------------------------------------
  | DEBUG MODE
  |--------------------------------------------------------------------------
- | Debug mode is an experimental flag that can allow changes throughout
+ | Debug mode is an experimental flag that can allow changes throughout1
  | the system. It's not widely used currently, and may not survive
  | release of the framework.
  */
